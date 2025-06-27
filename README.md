@@ -34,4 +34,6 @@ This is a simple URL shortener service written in Go.
 - The code is split into files for main logic, handlers, storage, and utilities.
 
 ---
+
+PS: Built in under 2 hours.
  
