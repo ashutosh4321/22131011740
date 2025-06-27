@@ -1,4 +1,4 @@
-BINARY=.bin/affordmed_backend
+BINARY=.bin/backend
 BACKEND_DIR=backend
 
 .PHONY: all build run clean

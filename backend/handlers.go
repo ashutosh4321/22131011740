@@ -7,7 +7,7 @@ import (
 	"time"
 	"strings"
 	"github.com/go-chi/chi/v5"
-	"github.com/ashutosh4321/affordmed_assignment/logging"
+	"github.com/ashutosh4321/22131011740/logging"
 )
 
 func createShortURLHandler(w http.ResponseWriter, r *http.Request) {

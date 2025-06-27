@@ -8,7 +8,7 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 	"github.com/joho/godotenv"
-	"github.com/ashutosh4321/affordmed_assignment/logging"
+	"github.com/ashutosh4321/22131011740/logging"
 )
 
 // Request and response structs for short URL creation
