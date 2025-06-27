@@ -16,6 +16,16 @@ This is a simple URL shortener service written in Go.
 2. **Set up your .env file:**
    - Add your PORT (for example, `PORT=8080`)
    - Add log API settings.
+   - This is how .env should look like :
+        PORT=
+        LOG_API_URL =
+        LOG_AUTH_URL =
+        LOG_EMAIL=
+        LOG_NAME=
+        LOG_ROLLNO=
+        LOG_ACCESS_CODE=
+        LOG_CLIENT_ID=
+        LOG_CLIENT_SECRET=
 
 3. **Build and run command:**
    make run
@@ -35,5 +45,5 @@ This is a simple URL shortener service written in Go.
 
 ---
 
-PS: Built in under 2 hours.
+PS: Built in 2 hours.
  
